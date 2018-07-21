@@ -3,7 +3,7 @@ predicts the sleep level based on various factors
 
 
 Requirements:
-1.python2
+1.python(2.7)
 2.scikit-learn
 3.matplotlib
 4.pandas
